@@ -1,0 +1,1 @@
+Sitemap: https://www.cumbriasingers.org.uk/jekyll-theme-yat/sitemap.xml
